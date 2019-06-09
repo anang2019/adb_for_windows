@@ -60,3 +60,1392 @@
 (9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:54	
 (9136)F:\adb\sysdeps_win32.cpp:462	adb_close: 101(lo-client:5037)
 (9136)F:\adb\adb.cpp:1310	log end(F:\adb\Debug\adb.exe)...
+(17484)F:\GitHub\adb_for_x64\adb.cpp:1305	log begin(F:\GitHub\adb_for_x64\Release\adb.exe)...
+(17484)F:\GitHub\adb_for_x64\adb_client.cpp:301	adb_query: host:devices
+(17484)F:\GitHub\adb_for_x64\adb_client.cpp:178	_adb_connect: host:version
+(17484)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 100
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=100 len=4: (17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	63(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	c(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=100 len=12: (17484)F:\GitHub\adb_for_x64\transport.cpp:45	68(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17484)F:\GitHub\adb_for_x64\transport.cpp:45	73(17484)F:\GitHub\adb_for_x64\transport.cpp:45	74(17484)F:\GitHub\adb_for_x64\transport.cpp:45	3a(17484)F:\GitHub\adb_for_x64\transport.cpp:45	76(17484)F:\GitHub\adb_for_x64\transport.cpp:45	65(17484)F:\GitHub\adb_for_x64\transport.cpp:45	72(17484)F:\GitHub\adb_for_x64\transport.cpp:45	73(17484)F:\GitHub\adb_for_x64\transport.cpp:45	69(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6e(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17484)F:\GitHub\adb_for_x64\transport.cpp:52	h(17484)F:\GitHub\adb_for_x64\transport.cpp:52	o(17484)F:\GitHub\adb_for_x64\transport.cpp:52	s(17484)F:\GitHub\adb_for_x64\transport.cpp:52	t(17484)F:\GitHub\adb_for_x64\transport.cpp:52	:(17484)F:\GitHub\adb_for_x64\transport.cpp:52	v(17484)F:\GitHub\adb_for_x64\transport.cpp:52	e(17484)F:\GitHub\adb_for_x64\transport.cpp:52	r(17484)F:\GitHub\adb_for_x64\transport.cpp:52	s(17484)F:\GitHub\adb_for_x64\transport.cpp:52	i(17484)F:\GitHub\adb_for_x64\transport.cpp:52	o(17484)F:\GitHub\adb_for_x64\transport.cpp:52	n(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	4f(17484)F:\GitHub\adb_for_x64\transport.cpp:45	4b(17484)F:\GitHub\adb_for_x64\transport.cpp:45	41(17484)F:\GitHub\adb_for_x64\transport.cpp:45	59(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17484)F:\GitHub\adb_for_x64\transport.cpp:52	O(17484)F:\GitHub\adb_for_x64\transport.cpp:52	K(17484)F:\GitHub\adb_for_x64\transport.cpp:52	A(17484)F:\GitHub\adb_for_x64\transport.cpp:52	Y(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	34(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	4(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	32(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	2(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 100(lo-client:5037)
+(17484)F:\GitHub\adb_for_x64\adb_client.cpp:178	_adb_connect: host:kill
+(17484)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 101
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=101 len=4: (17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	39(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	9(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=101 len=9: (17484)F:\GitHub\adb_for_x64\transport.cpp:45	68(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17484)F:\GitHub\adb_for_x64\transport.cpp:45	73(17484)F:\GitHub\adb_for_x64\transport.cpp:45	74(17484)F:\GitHub\adb_for_x64\transport.cpp:45	3a(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6b(17484)F:\GitHub\adb_for_x64\transport.cpp:45	69(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6c(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6c(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17484)F:\GitHub\adb_for_x64\transport.cpp:52	h(17484)F:\GitHub\adb_for_x64\transport.cpp:52	o(17484)F:\GitHub\adb_for_x64\transport.cpp:52	s(17484)F:\GitHub\adb_for_x64\transport.cpp:52	t(17484)F:\GitHub\adb_for_x64\transport.cpp:52	:(17484)F:\GitHub\adb_for_x64\transport.cpp:52	k(17484)F:\GitHub\adb_for_x64\transport.cpp:52	i(17484)F:\GitHub\adb_for_x64\transport.cpp:52	l(17484)F:\GitHub\adb_for_x64\transport.cpp:52	l(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=101 wanted=4
+(17484)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:483	_socket_set_errno: unhandled value 183
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1005	readx: fd=101 error 22: Invalid argument
+(17484)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 101(lo-client:5037)
+(17484)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:131	_fh_from_int: invalid fd -1
+(17128)F:\GitHub\adb_for_x64\adb.cpp:1305	log begin(F:\GitHub\adb_for_x64\Release\adb.exe)...
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:886	bit_buffer_init 005F20C0
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:886	bit_buffer_init 005F3100
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1234	adb_socketpair: returns (100, 101)
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 101
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 101 (new=0, old=1)
+(17128)F:\GitHub\adb_for_x64\transport_local.cpp:199	transport: local client init
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:170	Created device thread
+(17128)F:\GitHub\adb_for_x64\transport_local.cpp:142	transport: client_socket_thread() starting
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:487	adding a new device \\?\usb#vid_1ebf&pid_702a&mi_01#6&477ab0b&0&0001#{f72fe0d4-cbcb-407d-8814-9ed673d0dd6b}
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:661	socket_loopback_server: port 5037 type tcp => fd 102
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 102
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 102 (new=0, old=1)
+(17128)F:\GitHub\adb_for_x64\transport.cpp:964	transport: 00609910 init'ing for usb_handle 005F97A0 (sn='19b55019')
+(17128)F:\GitHub\adb_for_x64\transport_usb.cpp:114	transport: usb
+(17128)F:\GitHub\adb_for_x64\transport.cpp:680	transport: 19b55019 registered
+--- adb starting (pid 17128) ---
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:886	bit_buffer_init 005FB768
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:886	bit_buffer_init 005FC7A8
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1234	adb_socketpair: returns (104, 105)
+(17128)F:\GitHub\adb_for_x64\transport.cpp:621	transport: 19b55019 (104,105) starting
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 104
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 104 (new=0, old=1)
+(17128)F:\GitHub\adb_for_x64\transport.cpp:316	(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	(17128)F:\GitHub\adb_for_x64\transport.cpp:260	19b55019: starting transport output thread on fd 105, SYNC online (2)
+(17128)F:\GitHub\adb_for_x64\transport.cpp:272	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+19b55019: data pump started
+19b55019: starting transport input thread, reading from fd 105
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:306	usb_read 24
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1864	_event_socket_start: hooking 102(lo-server:5037) for 1 (flags 41)
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 3 events
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 2)
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 104(pair:105) for 0
+(17128)F:\GitHub\adb_for_x64\adb.cpp:316	handle_packet() SYNC
+(17128)F:\GitHub\adb_for_x64\adb.cpp:221	(17128)F:\GitHub\adb_for_x64\transport.cpp:331	19b55019: transport SYNC online
+Calling send_connect 
+(17128)F:\GitHub\adb_for_x64\transport.cpp:340	19b55019: transport got packet, sending to remote
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:263	usb_write 24
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:274	usb_write got: 24, expected: 24
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:263	usb_write 7
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:274	usb_write got: 7, expected: 7
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 24, expected: 24, errno: 997
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:306	usb_read 20
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 20, expected: 20, errno: 997
+(17128)F:\GitHub\adb_for_x64\transport.cpp:278	19b55019: received remote packet, sending to transport
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:306	usb_read 24
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:783	adb_socket_accept on fd 102 returns fd 106
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:382	LS(1): created (fd=106)
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:784	Connecting to smart socket 
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:765	Creating smart socket 
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:773	SS(0): created 00022280
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 106
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 106 (new=0, old=1)
+(17128)F:\GitHub\adb_for_x64\adb.cpp:316	handle_packet() AUTH
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 22
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 18
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:619	SS(0): 'host:track-devices'
+(17128)F:\GitHub\adb_for_x64\transport.cpp:477	device tracker 005F5958 created
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:415	LS(0) bound to 'track-devices'
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:691	SS(0): okay
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:752	SS(0): closed
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:132	LS(1): enqueue 21
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1864	_event_socket_start: hooking 106(accept:102(lo-server:5037)) for 1 (flags 41)
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 4 events
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 0
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 4 events
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5555
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5557
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17484)F:\GitHub\adb_for_x64\adb_client.cpp:178	_adb_connect: host:devices
+(17484)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 102
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=102 len=4: (17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 1
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 102(lo-server:5037) for 1
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:783	adb_socket_accept on fd 102 returns fd 109
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:382	LS(2): created (fd=109)
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	63(17128)F:\GitHub\adb_for_x64\sockets.cpp:784	Connecting to smart socket 
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:765	Creating smart socket 
+(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17128)F:\GitHub\adb_for_x64\sockets.cpp:773	SS(0): created 00022280
+(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 109
+(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 109 (new=0, old=1)
+(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17484)F:\GitHub\adb_for_x64\transport.cpp:52	c(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1864	_event_socket_start: hooking 109(accept:102(lo-server:5037)) for 1 (flags 41)
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=102 len=12: (17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	68(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 0
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	73(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	74(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 109(accept:102(lo-server:5037)) returns 1
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 109(accept:102(lo-server:5037)) for 1
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	64(17128)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 4
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	65(17128)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	76(17128)F:\GitHub\adb_for_x64\sockets.cpp:613	SS(0): waiting for 12 more bytes
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	69(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	63(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	65(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	73(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17484)F:\GitHub\adb_for_x64\transport.cpp:52	h(17484)F:\GitHub\adb_for_x64\transport.cpp:52	o(17484)F:\GitHub\adb_for_x64\transport.cpp:52	s(17484)F:\GitHub\adb_for_x64\transport.cpp:52	t(17484)F:\GitHub\adb_for_x64\transport.cpp:52	:(17484)F:\GitHub\adb_for_x64\transport.cpp:52	d(17484)F:\GitHub\adb_for_x64\transport.cpp:52	e(17484)F:\GitHub\adb_for_x64\transport.cpp:52	v(17484)F:\GitHub\adb_for_x64\transport.cpp:52	i(17484)F:\GitHub\adb_for_x64\transport.cpp:52	c(17484)F:\GitHub\adb_for_x64\transport.cpp:52	e(17484)F:\GitHub\adb_for_x64\transport.cpp:52	s(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(17484)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=102 wanted=4
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 109(accept:102(lo-server:5037)) returns 1
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 109(accept:102(lo-server:5037)) for 1
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 12
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:619	SS(0): 'host:devices'
+(17128)F:\GitHub\adb_for_x64\adb.cpp:1158	Getting device list 
+(17128)F:\GitHub\adb_for_x64\adb.cpp:1161	Wrote device list 
+(17128)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=109 len=25: (17128)F:\GitHub\adb_for_x64\transport.cpp:45	4f(17128)F:\GitHub\adb_for_x64\transport.cpp:45	4b(17128)F:\GitHub\adb_for_x64\transport.cpp:45	41(17128)F:\GitHub\adb_for_x64\transport.cpp:45	59(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	31(17128)F:\GitHub\adb_for_x64\transport.cpp:45	31(17128)F:\GitHub\adb_for_x64\transport.cpp:45	31(17128)F:\GitHub\adb_for_x64\transport.cpp:45	39(17128)F:\GitHub\adb_for_x64\transport.cpp:45	62(17128)F:\GitHub\adb_for_x64\transport.cpp:45	35(17128)F:\GitHub\adb_for_x64\transport.cpp:45	35(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	31(17128)F:\GitHub\adb_for_x64\transport.cpp:45	39(17128)F:\GitHub\adb_for_x64\transport.cpp:46	  (17128)F:\GitHub\adb_for_x64\transport.cpp:52	O(17128)F:\GitHub\adb_for_x64\transport.cpp:52	K(17128)F:\GitHub\adb_for_x64\transport.cpp:52	A(17128)F:\GitHub\adb_for_x64\transport.cpp:52	Y(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	1(17128)F:\GitHub\adb_for_x64\transport.cpp:52	1(17128)F:\GitHub\adb_for_x64\transport.cpp:52	1(17128)F:\GitHub\adb_for_x64\transport.cpp:52	9(17128)F:\GitHub\adb_for_x64\transport.cpp:52	b(17128)F:\GitHub\adb_for_x64\transport.cpp:52	5(17128)F:\GitHub\adb_for_x64\transport.cpp:52	5(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	1(17128)F:\GitHub\adb_for_x64\transport.cpp:52	9(17128)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=102 wanted=4 got=4
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:657	SS(0): handled host service 'devices'
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	4f(17128)F:\GitHub\adb_for_x64\sockets.cpp:752	SS(0): closed
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	4b(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 109(accept:102(lo-server:5037))
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	41(17128)F:\GitHub\adb_for_x64\sockets.cpp:236	LS(2): closed
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	59(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17484)F:\GitHub\adb_for_x64\transport.cpp:52	O(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 4 events
+(17484)F:\GitHub\adb_for_x64\transport.cpp:52	K(17484)F:\GitHub\adb_for_x64\transport.cpp:52	A(17484)F:\GitHub\adb_for_x64\transport.cpp:52	Y(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=102 wanted=4
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=102 wanted=4 got=4
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	31(17484)F:\GitHub\adb_for_x64\transport.cpp:45	31(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	1(17484)F:\GitHub\adb_for_x64\transport.cpp:52	1(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=102 wanted=17
+(17484)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=102 wanted=17 got=17
+(17484)F:\GitHub\adb_for_x64\transport.cpp:45	31(17484)F:\GitHub\adb_for_x64\transport.cpp:45	39(17484)F:\GitHub\adb_for_x64\transport.cpp:45	62(17484)F:\GitHub\adb_for_x64\transport.cpp:45	35(17484)F:\GitHub\adb_for_x64\transport.cpp:45	35(17484)F:\GitHub\adb_for_x64\transport.cpp:45	30(17484)F:\GitHub\adb_for_x64\transport.cpp:45	31(17484)F:\GitHub\adb_for_x64\transport.cpp:45	39(17484)F:\GitHub\adb_for_x64\transport.cpp:45	09(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17484)F:\GitHub\adb_for_x64\transport.cpp:45	66(17484)F:\GitHub\adb_for_x64\transport.cpp:45	66(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6c(17484)F:\GitHub\adb_for_x64\transport.cpp:45	69(17484)F:\GitHub\adb_for_x64\transport.cpp:45	6e(17484)F:\GitHub\adb_for_x64\transport.cpp:45	65(17484)F:\GitHub\adb_for_x64\transport.cpp:46	  (17484)F:\GitHub\adb_for_x64\transport.cpp:52	1(17484)F:\GitHub\adb_for_x64\transport.cpp:52	9(17484)F:\GitHub\adb_for_x64\transport.cpp:52	b(17484)F:\GitHub\adb_for_x64\transport.cpp:52	5(17484)F:\GitHub\adb_for_x64\transport.cpp:52	5(17484)F:\GitHub\adb_for_x64\transport.cpp:52	0(17484)F:\GitHub\adb_for_x64\transport.cpp:52	1(17484)F:\GitHub\adb_for_x64\transport.cpp:52	9(17484)F:\GitHub\adb_for_x64\transport.cpp:52	.(17484)F:\GitHub\adb_for_x64\transport.cpp:52	o(17484)F:\GitHub\adb_for_x64\transport.cpp:52	f(17484)F:\GitHub\adb_for_x64\transport.cpp:52	f(17484)F:\GitHub\adb_for_x64\transport.cpp:52	l(17484)F:\GitHub\adb_for_x64\transport.cpp:52	i(17484)F:\GitHub\adb_for_x64\transport.cpp:52	n(17484)F:\GitHub\adb_for_x64\transport.cpp:52	e(17484)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17484)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 102(lo-client:5037)
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5559
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5561
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5563
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5565
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5567
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5569
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5571
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5573
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5575
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5577
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5579
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5581
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5583
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5585
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(14460)F:\GitHub\adb_for_x64\adb.cpp:1305	log begin(F:\GitHub\adb_for_x64\Release\adb.exe)...
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(14460)F:\GitHub\adb_for_x64\adb_client.cpp:301	adb_query: host:devices
+(14460)F:\GitHub\adb_for_x64\adb_client.cpp:178	_adb_connect: host:version
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(14460)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 100
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=100 len=4: (17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 102(lo-server:5037) for 1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:783	adb_socket_accept on fd 102 returns fd 123
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\sockets.cpp:382	LS(3): created (fd=123)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	63(17128)F:\GitHub\adb_for_x64\sockets.cpp:784	Connecting to smart socket 
+(14460)F:\GitHub\adb_for_x64\transport.cpp:46	  (17128)F:\GitHub\adb_for_x64\sockets.cpp:765	Creating smart socket 
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\sockets.cpp:773	SS(0): created 00022280
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 123
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 123 (new=0, old=1)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	c(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=100 len=12: (14460)F:\GitHub\adb_for_x64\transport.cpp:45	68(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1864	_event_socket_start: hooking 123(accept:102(lo-server:5037)) for 1 (flags 41)
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	73(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 0
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	74(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	3a(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	76(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 123(accept:102(lo-server:5037)) returns 1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	65(14460)F:\GitHub\adb_for_x64\transport.cpp:45	72(14460)F:\GitHub\adb_for_x64\transport.cpp:45	73(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 123(accept:102(lo-server:5037)) for 1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	69(17128)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 4
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17128)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	6e(17128)F:\GitHub\adb_for_x64\sockets.cpp:613	SS(0): waiting for 12 more bytes
+(14460)F:\GitHub\adb_for_x64\transport.cpp:46	  (17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	h(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	o(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	s(14460)F:\GitHub\adb_for_x64\transport.cpp:52	t(14460)F:\GitHub\adb_for_x64\transport.cpp:52	:(14460)F:\GitHub\adb_for_x64\transport.cpp:52	v(14460)F:\GitHub\adb_for_x64\transport.cpp:52	e(14460)F:\GitHub\adb_for_x64\transport.cpp:52	r(14460)F:\GitHub\adb_for_x64\transport.cpp:52	s(14460)F:\GitHub\adb_for_x64\transport.cpp:52	i(14460)F:\GitHub\adb_for_x64\transport.cpp:52	o(14460)F:\GitHub\adb_for_x64\transport.cpp:52	n(14460)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 123(accept:102(lo-server:5037)) returns 1
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 123(accept:102(lo-server:5037)) for 1
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 12
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:619	SS(0): 'host:version'
+(17128)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=123 len=12: (17128)F:\GitHub\adb_for_x64\transport.cpp:45	4f(17128)F:\GitHub\adb_for_x64\transport.cpp:45	4b(17128)F:\GitHub\adb_for_x64\transport.cpp:45	41(17128)F:\GitHub\adb_for_x64\transport.cpp:45	59(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	34(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	33(17128)F:\GitHub\adb_for_x64\transport.cpp:45	32(17128)F:\GitHub\adb_for_x64\transport.cpp:46	  (17128)F:\GitHub\adb_for_x64\transport.cpp:52	O(17128)F:\GitHub\adb_for_x64\transport.cpp:52	K(17128)F:\GitHub\adb_for_x64\transport.cpp:52	A(17128)F:\GitHub\adb_for_x64\transport.cpp:52	Y(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	4(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	3(17128)F:\GitHub\adb_for_x64\transport.cpp:52	2(17128)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:657	SS(0): handled host service 'version'
+(14460)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:752	SS(0): closed
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	4f(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 123(accept:102(lo-server:5037))
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	4b(17128)F:\GitHub\adb_for_x64\sockets.cpp:236	LS(3): closed
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	41(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	59(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:46	  (17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 4 events
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	O(14460)F:\GitHub\adb_for_x64\transport.cpp:52	K(14460)F:\GitHub\adb_for_x64\transport.cpp:52	A(14460)F:\GitHub\adb_for_x64\transport.cpp:52	Y(14460)F:\GitHub\adb_for_x64\transport.cpp:54	
+(14460)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(14460)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(14460)F:\GitHub\adb_for_x64\transport.cpp:45	34(14460)F:\GitHub\adb_for_x64\transport.cpp:46	  (14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(14460)F:\GitHub\adb_for_x64\transport.cpp:52	4(14460)F:\GitHub\adb_for_x64\transport.cpp:54	
+(14460)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(14460)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(14460)F:\GitHub\adb_for_x64\transport.cpp:45	33(14460)F:\GitHub\adb_for_x64\transport.cpp:45	32(14460)F:\GitHub\adb_for_x64\transport.cpp:46	  (14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(14460)F:\GitHub\adb_for_x64\transport.cpp:52	3(14460)F:\GitHub\adb_for_x64\transport.cpp:52	2(14460)F:\GitHub\adb_for_x64\transport.cpp:54	
+(14460)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 100(lo-client:5037)
+(14460)F:\GitHub\adb_for_x64\adb_client.cpp:178	_adb_connect: host:devices
+(14460)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 101
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=101 len=4: (17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 102(lo-server:5037) for 1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:783	adb_socket_accept on fd 102 returns fd 124
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\sockets.cpp:382	LS(4): created (fd=124)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	63(17128)F:\GitHub\adb_for_x64\sockets.cpp:784	Connecting to smart socket 
+(14460)F:\GitHub\adb_for_x64\transport.cpp:46	  (17128)F:\GitHub\adb_for_x64\sockets.cpp:765	Creating smart socket 
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\sockets.cpp:773	SS(0): created 00022280
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 124
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 124 (new=0, old=1)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	c(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1864	_event_socket_start: hooking 124(accept:102(lo-server:5037)) for 1 (flags 41)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=101 len=12: (17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	68(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 0
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	73(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	74(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	3a(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 124(accept:102(lo-server:5037)) returns 1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	64(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 124(accept:102(lo-server:5037)) for 1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	65(17128)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 4
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	76(17128)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	69(17128)F:\GitHub\adb_for_x64\sockets.cpp:613	SS(0): waiting for 12 more bytes
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	63(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	65(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	73(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(14460)F:\GitHub\adb_for_x64\transport.cpp:46	  (14460)F:\GitHub\adb_for_x64\transport.cpp:52	h(14460)F:\GitHub\adb_for_x64\transport.cpp:52	o(14460)F:\GitHub\adb_for_x64\transport.cpp:52	s(14460)F:\GitHub\adb_for_x64\transport.cpp:52	t(14460)F:\GitHub\adb_for_x64\transport.cpp:52	:(14460)F:\GitHub\adb_for_x64\transport.cpp:52	d(14460)F:\GitHub\adb_for_x64\transport.cpp:52	e(14460)F:\GitHub\adb_for_x64\transport.cpp:52	v(14460)F:\GitHub\adb_for_x64\transport.cpp:52	i(14460)F:\GitHub\adb_for_x64\transport.cpp:52	c(14460)F:\GitHub\adb_for_x64\transport.cpp:52	e(14460)F:\GitHub\adb_for_x64\transport.cpp:52	s(14460)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(14460)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=101 wanted=4
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 124(accept:102(lo-server:5037)) returns 1
+(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 124(accept:102(lo-server:5037)) for 1
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 12
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:619	SS(0): 'host:devices'
+(17128)F:\GitHub\adb_for_x64\adb.cpp:1158	Getting device list 
+(17128)F:\GitHub\adb_for_x64\adb.cpp:1161	Wrote device list 
+(17128)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=124 len=25: (17128)F:\GitHub\adb_for_x64\transport.cpp:45	4f(17128)F:\GitHub\adb_for_x64\transport.cpp:45	4b(17128)F:\GitHub\adb_for_x64\transport.cpp:45	41(17128)F:\GitHub\adb_for_x64\transport.cpp:45	59(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	31(17128)F:\GitHub\adb_for_x64\transport.cpp:45	31(17128)F:\GitHub\adb_for_x64\transport.cpp:45	31(17128)F:\GitHub\adb_for_x64\transport.cpp:45	39(17128)F:\GitHub\adb_for_x64\transport.cpp:45	62(17128)F:\GitHub\adb_for_x64\transport.cpp:45	35(17128)F:\GitHub\adb_for_x64\transport.cpp:45	35(17128)F:\GitHub\adb_for_x64\transport.cpp:45	30(17128)F:\GitHub\adb_for_x64\transport.cpp:45	31(17128)F:\GitHub\adb_for_x64\transport.cpp:45	39(17128)F:\GitHub\adb_for_x64\transport.cpp:46	  (17128)F:\GitHub\adb_for_x64\transport.cpp:52	O(17128)F:\GitHub\adb_for_x64\transport.cpp:52	K(17128)F:\GitHub\adb_for_x64\transport.cpp:52	A(17128)F:\GitHub\adb_for_x64\transport.cpp:52	Y(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	1(17128)F:\GitHub\adb_for_x64\transport.cpp:52	1(17128)F:\GitHub\adb_for_x64\transport.cpp:52	1(17128)F:\GitHub\adb_for_x64\transport.cpp:52	9(17128)F:\GitHub\adb_for_x64\transport.cpp:52	b(17128)F:\GitHub\adb_for_x64\transport.cpp:52	5(17128)F:\GitHub\adb_for_x64\transport.cpp:52	5(17128)F:\GitHub\adb_for_x64\transport.cpp:52	0(17128)F:\GitHub\adb_for_x64\transport.cpp:52	1(17128)F:\GitHub\adb_for_x64\transport.cpp:52	9(17128)F:\GitHub\adb_for_x64\transport.cpp:54	
+(14460)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=101 wanted=4 got=4
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:657	SS(0): handled host service 'devices'
+(17128)F:\GitHub\adb_for_x64\sockets.cpp:752	SS(0): closed
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	4f(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 124(accept:102(lo-server:5037))
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	4b(17128)F:\GitHub\adb_for_x64\sockets.cpp:236	LS(4): closed
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	41(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	59(17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(14460)F:\GitHub\adb_for_x64\transport.cpp:46	  (17128)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 4 events
+(14460)F:\GitHub\adb_for_x64\transport.cpp:52	O(14460)F:\GitHub\adb_for_x64\transport.cpp:52	K(14460)F:\GitHub\adb_for_x64\transport.cpp:52	A(14460)F:\GitHub\adb_for_x64\transport.cpp:52	Y(14460)F:\GitHub\adb_for_x64\transport.cpp:54	
+(14460)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=101 wanted=4
+(14460)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=101 wanted=4 got=4
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(14460)F:\GitHub\adb_for_x64\transport.cpp:45	31(14460)F:\GitHub\adb_for_x64\transport.cpp:45	31(14460)F:\GitHub\adb_for_x64\transport.cpp:46	  (14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(14460)F:\GitHub\adb_for_x64\transport.cpp:52	1(14460)F:\GitHub\adb_for_x64\transport.cpp:52	1(14460)F:\GitHub\adb_for_x64\transport.cpp:54	
+(14460)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=101 wanted=17
+(14460)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=101 wanted=17 got=17
+(14460)F:\GitHub\adb_for_x64\transport.cpp:45	31(14460)F:\GitHub\adb_for_x64\transport.cpp:45	39(14460)F:\GitHub\adb_for_x64\transport.cpp:45	62(14460)F:\GitHub\adb_for_x64\transport.cpp:45	35(14460)F:\GitHub\adb_for_x64\transport.cpp:45	35(14460)F:\GitHub\adb_for_x64\transport.cpp:45	30(14460)F:\GitHub\adb_for_x64\transport.cpp:45	31(14460)F:\GitHub\adb_for_x64\transport.cpp:45	39(14460)F:\GitHub\adb_for_x64\transport.cpp:45	09(14460)F:\GitHub\adb_for_x64\transport.cpp:45	6f(14460)F:\GitHub\adb_for_x64\transport.cpp:45	66(14460)F:\GitHub\adb_for_x64\transport.cpp:45	66(14460)F:\GitHub\adb_for_x64\transport.cpp:45	6c(14460)F:\GitHub\adb_for_x64\transport.cpp:45	69(14460)F:\GitHub\adb_for_x64\transport.cpp:45	6e(14460)F:\GitHub\adb_for_x64\transport.cpp:45	65(14460)F:\GitHub\adb_for_x64\transport.cpp:46	  (14460)F:\GitHub\adb_for_x64\transport.cpp:52	1(14460)F:\GitHub\adb_for_x64\transport.cpp:52	9(14460)F:\GitHub\adb_for_x64\transport.cpp:52	b(14460)F:\GitHub\adb_for_x64\transport.cpp:52	5(14460)F:\GitHub\adb_for_x64\transport.cpp:52	5(14460)F:\GitHub\adb_for_x64\transport.cpp:52	0(14460)F:\GitHub\adb_for_x64\transport.cpp:52	1(14460)F:\GitHub\adb_for_x64\transport.cpp:52	9(14460)F:\GitHub\adb_for_x64\transport.cpp:52	.(14460)F:\GitHub\adb_for_x64\transport.cpp:52	o(14460)F:\GitHub\adb_for_x64\transport.cpp:52	f(14460)F:\GitHub\adb_for_x64\transport.cpp:52	f(14460)F:\GitHub\adb_for_x64\transport.cpp:52	l(14460)F:\GitHub\adb_for_x64\transport.cpp:52	i(14460)F:\GitHub\adb_for_x64\transport.cpp:52	n(14460)F:\GitHub\adb_for_x64\transport.cpp:52	e(14460)F:\GitHub\adb_for_x64\transport.cpp:54	
+(14460)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 101(lo-client:5037)
+(14460)F:\GitHub\adb_for_x64\adb.cpp:1310	log end(F:\GitHub\adb_for_x64\Release\adb.exe)...
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(8868)F:\GitHub\adb_for_x64\adb.cpp:1305	log begin(F:\GitHub\adb_for_x64\Release\adb.exe)...
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17128)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17564)F:\GitHub\adb_for_x64\adb.cpp:1305	log begin(F:\GitHub\adb_for_x64\Release\adb.exe)...
+(17564)F:\GitHub\adb_for_x64\adb_client.cpp:301	adb_query: host:devices
+(17564)F:\GitHub\adb_for_x64\adb_client.cpp:178	_adb_connect: host:version
+(17564)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 100
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=100 len=4: (17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	63(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	c(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=100 len=12: (17564)F:\GitHub\adb_for_x64\transport.cpp:45	68(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17564)F:\GitHub\adb_for_x64\transport.cpp:45	73(17564)F:\GitHub\adb_for_x64\transport.cpp:45	74(17564)F:\GitHub\adb_for_x64\transport.cpp:45	3a(17564)F:\GitHub\adb_for_x64\transport.cpp:45	76(17564)F:\GitHub\adb_for_x64\transport.cpp:45	65(17564)F:\GitHub\adb_for_x64\transport.cpp:45	72(17564)F:\GitHub\adb_for_x64\transport.cpp:45	73(17564)F:\GitHub\adb_for_x64\transport.cpp:45	69(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6e(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (17564)F:\GitHub\adb_for_x64\transport.cpp:52	h(17564)F:\GitHub\adb_for_x64\transport.cpp:52	o(17564)F:\GitHub\adb_for_x64\transport.cpp:52	s(17564)F:\GitHub\adb_for_x64\transport.cpp:52	t(17564)F:\GitHub\adb_for_x64\transport.cpp:52	:(17564)F:\GitHub\adb_for_x64\transport.cpp:52	v(17564)F:\GitHub\adb_for_x64\transport.cpp:52	e(17564)F:\GitHub\adb_for_x64\transport.cpp:52	r(17564)F:\GitHub\adb_for_x64\transport.cpp:52	s(17564)F:\GitHub\adb_for_x64\transport.cpp:52	i(17564)F:\GitHub\adb_for_x64\transport.cpp:52	o(17564)F:\GitHub\adb_for_x64\transport.cpp:52	n(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	4f(17564)F:\GitHub\adb_for_x64\transport.cpp:45	4b(17564)F:\GitHub\adb_for_x64\transport.cpp:45	41(17564)F:\GitHub\adb_for_x64\transport.cpp:45	59(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (17564)F:\GitHub\adb_for_x64\transport.cpp:52	O(17564)F:\GitHub\adb_for_x64\transport.cpp:52	K(17564)F:\GitHub\adb_for_x64\transport.cpp:52	A(17564)F:\GitHub\adb_for_x64\transport.cpp:52	Y(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	34(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	4(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	31(17564)F:\GitHub\adb_for_x64\transport.cpp:45	66(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	1(17564)F:\GitHub\adb_for_x64\transport.cpp:52	f(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 100(lo-client:5037)
+(17564)F:\GitHub\adb_for_x64\adb_client.cpp:178	_adb_connect: host:kill
+(17564)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 101
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=101 len=4: (17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	39(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	9(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=101 len=9: (17564)F:\GitHub\adb_for_x64\transport.cpp:45	68(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17564)F:\GitHub\adb_for_x64\transport.cpp:45	73(17564)F:\GitHub\adb_for_x64\transport.cpp:45	74(17564)F:\GitHub\adb_for_x64\transport.cpp:45	3a(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6b(17564)F:\GitHub\adb_for_x64\transport.cpp:45	69(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6c(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6c(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (17564)F:\GitHub\adb_for_x64\transport.cpp:52	h(17564)F:\GitHub\adb_for_x64\transport.cpp:52	o(17564)F:\GitHub\adb_for_x64\transport.cpp:52	s(17564)F:\GitHub\adb_for_x64\transport.cpp:52	t(17564)F:\GitHub\adb_for_x64\transport.cpp:52	:(17564)F:\GitHub\adb_for_x64\transport.cpp:52	k(17564)F:\GitHub\adb_for_x64\transport.cpp:52	i(17564)F:\GitHub\adb_for_x64\transport.cpp:52	l(17564)F:\GitHub\adb_for_x64\transport.cpp:52	l(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=101 wanted=4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=101 wanted=4 got=4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	4f(17564)F:\GitHub\adb_for_x64\transport.cpp:45	4b(17564)F:\GitHub\adb_for_x64\transport.cpp:45	41(17564)F:\GitHub\adb_for_x64\transport.cpp:45	59(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (17564)F:\GitHub\adb_for_x64\transport.cpp:52	O(17564)F:\GitHub\adb_for_x64\transport.cpp:52	K(17564)F:\GitHub\adb_for_x64\transport.cpp:52	A(17564)F:\GitHub\adb_for_x64\transport.cpp:52	Y(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 101(lo-client:5037)
+(18060)F:\GitHub\adb_for_x64\adb.cpp:1305	log begin(F:\GitHub\adb_for_x64\Release\adb.exe)...
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:886	bit_buffer_init 003F0428
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:886	bit_buffer_init 003F1468
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1234	adb_socketpair: returns (100, 101)
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 101
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 101 (new=0, old=1)
+(18060)F:\GitHub\adb_for_x64\transport_local.cpp:199	(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:170	Created device thread
+transport: local client init
+(18060)F:\GitHub\adb_for_x64\transport_local.cpp:142	transport: client_socket_thread() starting
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:487	adding a new device \\?\usb#vid_1ebf&pid_702a&mi_01#6&477ab0b&0&0001#{f72fe0d4-cbcb-407d-8814-9ed673d0dd6b}
+(18060)F:\GitHub\adb_for_x64\transport.cpp:964	transport: 00405AB0 init'ing for usb_handle 003F2A38 (sn='19b55019')
+(18060)F:\GitHub\adb_for_x64\transport_usb.cpp:114	transport: usb
+(18060)F:\GitHub\adb_for_x64\transport.cpp:680	transport: 19b55019 registered
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:661	socket_loopback_server: port 5037 type tcp => fd 102
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 102
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 102 (new=0, old=1)
+-(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:886	bit_buffer_init 003FDC50
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:886	bit_buffer_init 003FEC90
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1234	adb_socketpair: returns (104, 105)
+(18060)F:\GitHub\adb_for_x64\transport.cpp:621	transport: 19b55019 (104,105) starting
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 104
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 104 (new=0, old=1)
+(18060)F:\GitHub\adb_for_x64\transport.cpp:316	(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	(18060)F:\GitHub\adb_for_x64\transport.cpp:260	19b55019: starting transport input thread, reading from fd 105
+19b55019: starting transport output thread on fd 105, SYNC online (2)
+_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1864	_event_socket_start: hooking 102(lo-server:5037) for 1 (flags 41)
+(18060)F:\GitHub\adb_for_x64\transport.cpp:272	(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 3 events
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	19b55019: data pump started
+adb_win32: got one (index 2)
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:306	adb_win32: signaling 104(pair:105) for 0
+usb_read 24
+(18060)F:\GitHub\adb_for_x64\adb.cpp:316	handle_packet() SYNC
+(18060)F:\GitHub\adb_for_x64\adb.cpp:221	(18060)F:\GitHub\adb_for_x64\transport.cpp:331	Calling send_connect 
+19b55019: transport SYNC online
+(18060)F:\GitHub\adb_for_x64\transport.cpp:340	19b55019: transport got packet, sending to remote
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:263	usb_write 24
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:274	usb_write got: 24, expected: 24
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:263	usb_write 7
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:274	usb_write got: 7, expected: 7
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 24, expected: 24, errno: 997
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:306	usb_read 20
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 20, expected: 20, errno: 997
+(18060)F:\GitHub\adb_for_x64\transport.cpp:278	19b55019: received remote packet, sending to transport
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:306	usb_read 24
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:783	adb_socket_accept on fd 102 returns fd 106
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:382	LS(1): created (fd=106)
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:784	Connecting to smart socket 
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:765	Creating smart socket 
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:773	SS(0): created 00B12280
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 106
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 106 (new=0, old=1)
+(18060)F:\GitHub\adb_for_x64\adb.cpp:316	handle_packet() AUTH
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 22
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 18
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:619	SS(0): 'host:track-devices'
+(18060)F:\GitHub\adb_for_x64\transport.cpp:477	device tracker 00406168 created
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:415	LS(0) bound to 'track-devices'
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:691	SS(0): okay
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:752	SS(0): closed
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:132	LS(1): enqueue 21
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1864	_event_socket_start: hooking 106(accept:102(lo-server:5037)) for 1 (flags 41)
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 4 events
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 0
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 4 events
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5555
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5557
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17564)F:\GitHub\adb_for_x64\adb_client.cpp:178	_adb_connect: host:devices
+(17564)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 102
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=102 len=4: (18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 1
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 102(lo-server:5037) for 1
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:783	adb_socket_accept on fd 102 returns fd 109
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\sockets.cpp:382	LS(2): created (fd=109)
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	63(18060)F:\GitHub\adb_for_x64\sockets.cpp:784	Connecting to smart socket 
+(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (18060)F:\GitHub\adb_for_x64\sockets.cpp:765	Creating smart socket 
+(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\sockets.cpp:773	SS(0): created 00B12280
+(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 109
+(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 109 (new=0, old=1)
+(17564)F:\GitHub\adb_for_x64\transport.cpp:52	c(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1864	_event_socket_start: hooking 109(accept:102(lo-server:5037)) for 1 (flags 41)
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=102 len=12: (18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	68(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6f(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 0
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	73(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	74(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	3a(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 109(accept:102(lo-server:5037)) returns 1
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	64(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 109(accept:102(lo-server:5037)) for 1
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	65(18060)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	76(18060)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	69(18060)F:\GitHub\adb_for_x64\sockets.cpp:613	SS(0): waiting for 12 more bytes
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	63(17564)F:\GitHub\adb_for_x64\transport.cpp:45	65(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	73(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  542	adb_win32: waiting for 5 events
+(17564)F:\GitHub\adb_for_x64\transport.cpp:52	h(17564)F:\GitHub\adb_for_x64\transport.cpp:52	o(17564)F:\GitHub\adb_for_x64\transport.cpp:52	s(17564)F:\GitHub\adb_for_x64\transport.cpp:52	t(17564)F:\GitHub\adb_for_x64\transport.cpp:52	:(17564)F:\GitHub\adb_for_x64\transport.cpp:52	d(17564)F:\GitHub\adb_for_x64\transport.cpp:52	e(17564)F:\GitHub\adb_for_x64\transport.cpp:52	v(17564)F:\GitHub\adb_for_x64\transport.cpp:52	i(17564)F:\GitHub\adb_for_x64\transport.cpp:52	c(17564)F:\GitHub\adb_for_x64\transport.cpp:52	e(17564)F:\GitHub\adb_for_x64\transport.cpp:52	s(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(17564)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=102 wanted=4
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 109(accept:102(lo-server:5037)) returns 1
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 109(accept:102(lo-server:5037)) for 1
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 12
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:619	SS(0): 'host:devices'
+(18060)F:\GitHub\adb_for_x64\adb.cpp:1158	Getting device list 
+(18060)F:\GitHub\adb_for_x64\adb.cpp:1161	Wrote device list 
+(18060)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=109 len=25: (18060)F:\GitHub\adb_for_x64\transport.cpp:45	4f(18060)F:\GitHub\adb_for_x64\transport.cpp:45	4b(18060)F:\GitHub\adb_for_x64\transport.cpp:45	41(18060)F:\GitHub\adb_for_x64\transport.cpp:45	59(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	31(18060)F:\GitHub\adb_for_x64\transport.cpp:45	31(18060)F:\GitHub\adb_for_x64\transport.cpp:45	31(18060)F:\GitHub\adb_for_x64\transport.cpp:45	39(18060)F:\GitHub\adb_for_x64\transport.cpp:45	62(18060)F:\GitHub\adb_for_x64\transport.cpp:45	35(18060)F:\GitHub\adb_for_x64\transport.cpp:45	35(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	31(18060)F:\GitHub\adb_for_x64\transport.cpp:45	39(18060)F:\GitHub\adb_for_x64\transport.cpp:46	  (18060)F:\GitHub\adb_for_x64\transport.cpp:52	O(18060)F:\GitHub\adb_for_x64\transport.cpp:52	K(18060)F:\GitHub\adb_for_x64\transport.cpp:52	A(18060)F:\GitHub\adb_for_x64\transport.cpp:52	Y(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	1(18060)F:\GitHub\adb_for_x64\transport.cpp:52	1(18060)F:\GitHub\adb_for_x64\transport.cpp:52	1(18060)F:\GitHub\adb_for_x64\transport.cpp:52	9(18060)F:\GitHub\adb_for_x64\transport.cpp:52	b(18060)F:\GitHub\adb_for_x64\transport.cpp:52	5(18060)F:\GitHub\adb_for_x64\transport.cpp:52	5(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	1(18060)F:\GitHub\adb_for_x64\transport.cpp:52	9(18060)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=102 wanted=4 got=4
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:657	SS(0): handled host service 'devices'
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	4f(18060)F:\GitHub\adb_for_x64\sockets.cpp:752	SS(0): closed
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	4b(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 109(accept:102(lo-server:5037))
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	41(18060)F:\GitHub\adb_for_x64\sockets.cpp:236	LS(2): closed
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17564)F:\GitHub\adb_for_x64\transport.cpp:52	O(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 4 events
+(17564)F:\GitHub\adb_for_x64\transport.cpp:52	K(17564)F:\GitHub\adb_for_x64\transport.cpp:52	A(17564)F:\GitHub\adb_for_x64\transport.cpp:52	Y(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=102 wanted=4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=102 wanted=4 got=4
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	31(17564)F:\GitHub\adb_for_x64\transport.cpp:45	31(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	1(17564)F:\GitHub\adb_for_x64\transport.cpp:52	1(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=102 wanted=17
+(17564)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=102 wanted=17 got=17
+(17564)F:\GitHub\adb_for_x64\transport.cpp:45	31(17564)F:\GitHub\adb_for_x64\transport.cpp:45	39(17564)F:\GitHub\adb_for_x64\transport.cpp:45	62(17564)F:\GitHub\adb_for_x64\transport.cpp:45	35(17564)F:\GitHub\adb_for_x64\transport.cpp:45	35(17564)F:\GitHub\adb_for_x64\transport.cpp:45	30(17564)F:\GitHub\adb_for_x64\transport.cpp:45	31(17564)F:\GitHub\adb_for_x64\transport.cpp:45	39(17564)F:\GitHub\adb_for_x64\transport.cpp:45	09(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17564)F:\GitHub\adb_for_x64\transport.cpp:45	66(17564)F:\GitHub\adb_for_x64\transport.cpp:45	66(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6c(17564)F:\GitHub\adb_for_x64\transport.cpp:45	69(17564)F:\GitHub\adb_for_x64\transport.cpp:45	6e(17564)F:\GitHub\adb_for_x64\transport.cpp:45	65(17564)F:\GitHub\adb_for_x64\transport.cpp:46	  (17564)F:\GitHub\adb_for_x64\transport.cpp:52	1(17564)F:\GitHub\adb_for_x64\transport.cpp:52	9(17564)F:\GitHub\adb_for_x64\transport.cpp:52	b(17564)F:\GitHub\adb_for_x64\transport.cpp:52	5(17564)F:\GitHub\adb_for_x64\transport.cpp:52	5(17564)F:\GitHub\adb_for_x64\transport.cpp:52	0(17564)F:\GitHub\adb_for_x64\transport.cpp:52	1(17564)F:\GitHub\adb_for_x64\transport.cpp:52	9(17564)F:\GitHub\adb_for_x64\transport.cpp:52	.(17564)F:\GitHub\adb_for_x64\transport.cpp:52	o(17564)F:\GitHub\adb_for_x64\transport.cpp:52	f(17564)F:\GitHub\adb_for_x64\transport.cpp:52	f(17564)F:\GitHub\adb_for_x64\transport.cpp:52	l(17564)F:\GitHub\adb_for_x64\transport.cpp:52	i(17564)F:\GitHub\adb_for_x64\transport.cpp:52	n(17564)F:\GitHub\adb_for_x64\transport.cpp:52	e(17564)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17564)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 102(lo-client:5037)
+(17564)F:\GitHub\adb_for_x64\adb.cpp:1310	log end(F:\GitHub\adb_for_x64\Release\adb.exe)...
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5559
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5561
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5563
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5565
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5567
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5569
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5571
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5573
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5575
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5577
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5579
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5581
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5583
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:607	socket_loopback_client: could not connect to tcp:5585
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17628)F:\GitHub\adb_for_x64\adb.cpp:1305	log begin(F:\GitHub\adb_for_x64\Release\adb.exe)...
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(17628)F:\GitHub\adb_for_x64\adb_client.cpp:301	adb_query: host:devices
+(17628)F:\GitHub\adb_for_x64\adb_client.cpp:178	_adb_connect: host:version
+(17628)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 100
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=100 len=4: (18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 1
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 102(lo-server:5037) for 1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:783	adb_socket_accept on fd 102 returns fd 123
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\sockets.cpp:382	LS(3): created (fd=123)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	63(18060)F:\GitHub\adb_for_x64\sockets.cpp:784	Connecting to smart socket 
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:765	Creating smart socket 
+(17628)F:\GitHub\adb_for_x64\transport.cpp:46	  (18060)F:\GitHub\adb_for_x64\sockets.cpp:773	SS(0): created 00B12280
+(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 123
+(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 123 (new=0, old=1)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:52	c(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:54	
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1864	_event_socket_start: hooking 123(accept:102(lo-server:5037)) for 1 (flags 41)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=100 len=12: (18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	68(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	6f(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 0
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	73(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	74(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	3a(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 123(accept:102(lo-server:5037)) returns 1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	76(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 123(accept:102(lo-server:5037)) for 1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	65(18060)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 4
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	72(18060)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	73(18060)F:\GitHub\adb_for_x64\sockets.cpp:613	SS(0): waiting for 12 more bytes
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	69(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17628)F:\GitHub\adb_for_x64\transport.cpp:45	6e(17628)F:\GitHub\adb_for_x64\transport.cpp:46	  (17628)F:\GitHub\adb_for_x64\transport.cpp:52	h(17628)F:\GitHub\adb_for_x64\transport.cpp:52	o(17628)F:\GitHub\adb_for_x64\transport.cpp:52	s(17628)F:\GitHub\adb_for_x64\transport.cpp:52	t(17628)F:\GitHub\adb_for_x64\transport.cpp:52	:(17628)F:\GitHub\adb_for_x64\transport.cpp:52	v(17628)F:\GitHub\adb_for_x64\transport.cpp:52	e(17628)F:\GitHub\adb_for_x64\transport.cpp:52	r(17628)F:\GitHub\adb_for_x64\transport.cpp:52	s(17628)F:\GitHub\adb_for_x64\transport.cpp:52	i(17628)F:\GitHub\adb_for_x64\transport.cpp:52	o(17628)F:\GitHub\adb_for_x64\transport.cpp:52	n(17628)F:\GitHub\adb_for_x64\transport.cpp:54	
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 123(accept:102(lo-server:5037)) returns 1
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 123(accept:102(lo-server:5037)) for 1
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 12
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:619	SS(0): 'host:version'
+(18060)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=123 len=12: (18060)F:\GitHub\adb_for_x64\transport.cpp:45	4f(18060)F:\GitHub\adb_for_x64\transport.cpp:45	4b(18060)F:\GitHub\adb_for_x64\transport.cpp:45	41(18060)F:\GitHub\adb_for_x64\transport.cpp:45	59(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	34(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	33(18060)F:\GitHub\adb_for_x64\transport.cpp:45	32(18060)F:\GitHub\adb_for_x64\transport.cpp:46	  (18060)F:\GitHub\adb_for_x64\transport.cpp:52	O(18060)F:\GitHub\adb_for_x64\transport.cpp:52	K(18060)F:\GitHub\adb_for_x64\transport.cpp:52	A(18060)F:\GitHub\adb_for_x64\transport.cpp:52	Y(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	4(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	3(18060)F:\GitHub\adb_for_x64\transport.cpp:52	2(18060)F:\GitHub\adb_for_x64\transport.cpp:54	
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:657	SS(0): handled host service 'version'
+(17628)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:752	SS(0): closed
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	4f(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 123(accept:102(lo-server:5037))
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	4b(18060)F:\GitHub\adb_for_x64\sockets.cpp:236	LS(3): closed
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	41(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	59(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:46	  (18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 4 events
+(17628)F:\GitHub\adb_for_x64\transport.cpp:52	O(17628)F:\GitHub\adb_for_x64\transport.cpp:52	K(17628)F:\GitHub\adb_for_x64\transport.cpp:52	A(17628)F:\GitHub\adb_for_x64\transport.cpp:52	Y(17628)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17628)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(17628)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(17628)F:\GitHub\adb_for_x64\transport.cpp:45	34(17628)F:\GitHub\adb_for_x64\transport.cpp:46	  (17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(17628)F:\GitHub\adb_for_x64\transport.cpp:52	4(17628)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17628)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=100 wanted=4
+(17628)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(17628)F:\GitHub\adb_for_x64\transport.cpp:45	33(17628)F:\GitHub\adb_for_x64\transport.cpp:45	32(17628)F:\GitHub\adb_for_x64\transport.cpp:46	  (17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(17628)F:\GitHub\adb_for_x64\transport.cpp:52	3(17628)F:\GitHub\adb_for_x64\transport.cpp:52	2(17628)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17628)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 100(lo-client:5037)
+(17628)F:\GitHub\adb_for_x64\adb_client.cpp:178	_adb_connect: host:devices
+(17628)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 101
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 1)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=101 len=4: (18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 102(lo-server:5037) returns 1
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 102(lo-server:5037) for 1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:783	adb_socket_accept on fd 102 returns fd 124
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\sockets.cpp:382	LS(4): created (fd=124)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\sockets.cpp:784	Connecting to smart socket 
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	63(18060)F:\GitHub\adb_for_x64\sockets.cpp:765	Creating smart socket 
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:773	SS(0): created 00B12280
+(17628)F:\GitHub\adb_for_x64\transport.cpp:46	  (18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1478	fdevent_update: add 1 to 124
+(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1409	event_looper_hook: call hook for 124 (new=0, old=1)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:52	c(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1864	_event_socket_start: hooking 124(accept:102(lo-server:5037)) for 1 (flags 41)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:54	
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(17628)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=101 len=12: (18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 124(accept:102(lo-server:5037)) returns 1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	68(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 124(accept:102(lo-server:5037)) for 1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	6f(18060)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 4
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	73(18060)F:\GitHub\adb_for_x64\sockets.cpp:613	SS(0): waiting for 12 more bytes
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	74(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	3a(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	64(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 5 events
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	65(17628)F:\GitHub\adb_for_x64\transport.cpp:45	76(17628)F:\GitHub\adb_for_x64\transport.cpp:45	69(17628)F:\GitHub\adb_for_x64\transport.cpp:45	63(17628)F:\GitHub\adb_for_x64\transport.cpp:45	65(17628)F:\GitHub\adb_for_x64\transport.cpp:45	73(17628)F:\GitHub\adb_for_x64\transport.cpp:46	  (17628)F:\GitHub\adb_for_x64\transport.cpp:52	h(17628)F:\GitHub\adb_for_x64\transport.cpp:52	o(17628)F:\GitHub\adb_for_x64\transport.cpp:52	s(17628)F:\GitHub\adb_for_x64\transport.cpp:52	t(17628)F:\GitHub\adb_for_x64\transport.cpp:52	:(17628)F:\GitHub\adb_for_x64\transport.cpp:52	d(17628)F:\GitHub\adb_for_x64\transport.cpp:52	e(17628)F:\GitHub\adb_for_x64\transport.cpp:52	v(17628)F:\GitHub\adb_for_x64\transport.cpp:52	i(17628)F:\GitHub\adb_for_x64\transport.cpp:52	c(17628)F:\GitHub\adb_for_x64\transport.cpp:52	e(17628)F:\GitHub\adb_for_x64\transport.cpp:52	s(17628)F:\GitHub\adb_for_x64\transport.cpp:54	
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1551	adb_win32: got one (index 4)
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1895	_event_socket_check 124(accept:102(lo-server:5037)) returns 1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=101 wanted=4
+(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1563	adb_win32: signaling 124(accept:102(lo-server:5037)) for 1
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:581	SS(0): enqueue 12
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:610	SS(0): len is 12
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:619	SS(0): 'host:devices'
+(18060)F:\GitHub\adb_for_x64\adb.cpp:1158	Getting device list 
+(18060)F:\GitHub\adb_for_x64\adb.cpp:1161	Wrote device list 
+(18060)F:\GitHub\adb_for_x64\transport.cpp:1028	writex: fd=124 len=25: (18060)F:\GitHub\adb_for_x64\transport.cpp:45	4f(18060)F:\GitHub\adb_for_x64\transport.cpp:45	4b(18060)F:\GitHub\adb_for_x64\transport.cpp:45	41(18060)F:\GitHub\adb_for_x64\transport.cpp:45	59(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	31(18060)F:\GitHub\adb_for_x64\transport.cpp:45	31(18060)F:\GitHub\adb_for_x64\transport.cpp:45	31(18060)F:\GitHub\adb_for_x64\transport.cpp:45	39(18060)F:\GitHub\adb_for_x64\transport.cpp:45	62(18060)F:\GitHub\adb_for_x64\transport.cpp:45	35(18060)F:\GitHub\adb_for_x64\transport.cpp:45	35(18060)F:\GitHub\adb_for_x64\transport.cpp:45	30(18060)F:\GitHub\adb_for_x64\transport.cpp:45	31(18060)F:\GitHub\adb_for_x64\transport.cpp:45	39(18060)F:\GitHub\adb_for_x64\transport.cpp:46	  (18060)F:\GitHub\adb_for_x64\transport.cpp:52	O(18060)F:\GitHub\adb_for_x64\transport.cpp:52	K(18060)F:\GitHub\adb_for_x64\transport.cpp:52	A(18060)F:\GitHub\adb_for_x64\transport.cpp:52	Y(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	1(18060)F:\GitHub\adb_for_x64\transport.cpp:52	1(18060)F:\GitHub\adb_for_x64\transport.cpp:52	1(18060)F:\GitHub\adb_for_x64\transport.cpp:52	9(18060)F:\GitHub\adb_for_x64\transport.cpp:52	b(18060)F:\GitHub\adb_for_x64\transport.cpp:52	5(18060)F:\GitHub\adb_for_x64\transport.cpp:52	5(18060)F:\GitHub\adb_for_x64\transport.cpp:52	0(18060)F:\GitHub\adb_for_x64\transport.cpp:52	1(18060)F:\GitHub\adb_for_x64\transport.cpp:52	9(18060)F:\GitHub\adb_for_x64\transport.cpp:54	
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:657	SS(0): handled host service 'devices'
+(17628)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=101 wanted=4 got=4
+(18060)F:\GitHub\adb_for_x64\sockets.cpp:752	SS(0): closed
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	4f(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 124(accept:102(lo-server:5037))
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	4b(18060)F:\GitHub\adb_for_x64\sockets.cpp:236	LS(4): closed
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	41(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 101(pair:100) for 65 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	59(18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1962	_event_socketpair_start: hook 104(pair:105) for 68 wanted=1
+(17628)F:\GitHub\adb_for_x64\transport.cpp:46	  (18060)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:1542	adb_win32: waiting for 4 events
+(17628)F:\GitHub\adb_for_x64\transport.cpp:52	O(17628)F:\GitHub\adb_for_x64\transport.cpp:52	K(17628)F:\GitHub\adb_for_x64\transport.cpp:52	A(17628)F:\GitHub\adb_for_x64\transport.cpp:52	Y(17628)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17628)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=101 wanted=4
+(17628)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=101 wanted=4 got=4
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(17628)F:\GitHub\adb_for_x64\transport.cpp:45	31(17628)F:\GitHub\adb_for_x64\transport.cpp:45	31(17628)F:\GitHub\adb_for_x64\transport.cpp:46	  (17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(17628)F:\GitHub\adb_for_x64\transport.cpp:52	1(17628)F:\GitHub\adb_for_x64\transport.cpp:52	1(17628)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17628)F:\GitHub\adb_for_x64\transport.cpp:997	readx: fd=101 wanted=17
+(17628)F:\GitHub\adb_for_x64\transport.cpp:1016	readx: fd=101 wanted=17 got=17
+(17628)F:\GitHub\adb_for_x64\transport.cpp:45	31(17628)F:\GitHub\adb_for_x64\transport.cpp:45	39(17628)F:\GitHub\adb_for_x64\transport.cpp:45	62(17628)F:\GitHub\adb_for_x64\transport.cpp:45	35(17628)F:\GitHub\adb_for_x64\transport.cpp:45	35(17628)F:\GitHub\adb_for_x64\transport.cpp:45	30(17628)F:\GitHub\adb_for_x64\transport.cpp:45	31(17628)F:\GitHub\adb_for_x64\transport.cpp:45	39(17628)F:\GitHub\adb_for_x64\transport.cpp:45	09(17628)F:\GitHub\adb_for_x64\transport.cpp:45	6f(17628)F:\GitHub\adb_for_x64\transport.cpp:45	66(17628)F:\GitHub\adb_for_x64\transport.cpp:45	66(17628)F:\GitHub\adb_for_x64\transport.cpp:45	6c(17628)F:\GitHub\adb_for_x64\transport.cpp:45	69(17628)F:\GitHub\adb_for_x64\transport.cpp:45	6e(17628)F:\GitHub\adb_for_x64\transport.cpp:45	65(17628)F:\GitHub\adb_for_x64\transport.cpp:46	  (17628)F:\GitHub\adb_for_x64\transport.cpp:52	1(17628)F:\GitHub\adb_for_x64\transport.cpp:52	9(17628)F:\GitHub\adb_for_x64\transport.cpp:52	b(17628)F:\GitHub\adb_for_x64\transport.cpp:52	5(17628)F:\GitHub\adb_for_x64\transport.cpp:52	5(17628)F:\GitHub\adb_for_x64\transport.cpp:52	0(17628)F:\GitHub\adb_for_x64\transport.cpp:52	1(17628)F:\GitHub\adb_for_x64\transport.cpp:52	9(17628)F:\GitHub\adb_for_x64\transport.cpp:52	.(17628)F:\GitHub\adb_for_x64\transport.cpp:52	o(17628)F:\GitHub\adb_for_x64\transport.cpp:52	f(17628)F:\GitHub\adb_for_x64\transport.cpp:52	f(17628)F:\GitHub\adb_for_x64\transport.cpp:52	l(17628)F:\GitHub\adb_for_x64\transport.cpp:52	i(17628)F:\GitHub\adb_for_x64\transport.cpp:52	n(17628)F:\GitHub\adb_for_x64\transport.cpp:52	e(17628)F:\GitHub\adb_for_x64\transport.cpp:54	
+(17628)F:\GitHub\adb_for_x64\sysdeps_win32.cpp:462	adb_close: 101(lo-client:5037)
+(17628)F:\GitHub\adb_for_x64\adb.cpp:1310	log end(F:\GitHub\adb_for_x64\Release\adb.exe)...
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
+(18060)F:\GitHub\adb_for_x64\usb_windows.cpp:318	usb_write got: 0, expected: 24, errno: 121
