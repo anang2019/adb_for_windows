@@ -1,0 +1,62 @@
+(5244)F:\adb\adb.cpp:1305	log begin(F:\adb\Debug\adb.exe)...
+(5244)F:\adb\adb_client.cpp:301	adb_query: host:devices
+(5244)F:\adb\adb_client.cpp:178	_adb_connect: host:version
+(5244)F:\adb\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 100
+(5244)F:\adb\transport.cpp:1028	writex: fd=100 len=4: (5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	63(5244)F:\adb\transport.cpp:46	  (5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	c(5244)F:\adb\transport.cpp:54	
+(5244)F:\adb\transport.cpp:1028	writex: fd=100 len=12: (5244)F:\adb\transport.cpp:45	68(5244)F:\adb\transport.cpp:45	6f(5244)F:\adb\transport.cpp:45	73(5244)F:\adb\transport.cpp:45	74(5244)F:\adb\transport.cpp:45	3a(5244)F:\adb\transport.cpp:45	76(5244)F:\adb\transport.cpp:45	65(5244)F:\adb\transport.cpp:45	72(5244)F:\adb\transport.cpp:45	73(5244)F:\adb\transport.cpp:45	69(5244)F:\adb\transport.cpp:45	6f(5244)F:\adb\transport.cpp:45	6e(5244)F:\adb\transport.cpp:46	  (5244)F:\adb\transport.cpp:52	h(5244)F:\adb\transport.cpp:52	o(5244)F:\adb\transport.cpp:52	s(5244)F:\adb\transport.cpp:52	t(5244)F:\adb\transport.cpp:52	:(5244)F:\adb\transport.cpp:52	v(5244)F:\adb\transport.cpp:52	e(5244)F:\adb\transport.cpp:52	r(5244)F:\adb\transport.cpp:52	s(5244)F:\adb\transport.cpp:52	i(5244)F:\adb\transport.cpp:52	o(5244)F:\adb\transport.cpp:52	n(5244)F:\adb\transport.cpp:54	
+(5244)F:\adb\transport.cpp:997	readx: fd=100 wanted=4
+(5244)F:\adb\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(5244)F:\adb\transport.cpp:45	4f(5244)F:\adb\transport.cpp:45	4b(5244)F:\adb\transport.cpp:45	41(5244)F:\adb\transport.cpp:45	59(5244)F:\adb\transport.cpp:46	  (5244)F:\adb\transport.cpp:52	O(5244)F:\adb\transport.cpp:52	K(5244)F:\adb\transport.cpp:52	A(5244)F:\adb\transport.cpp:52	Y(5244)F:\adb\transport.cpp:54	
+(5244)F:\adb\transport.cpp:997	readx: fd=100 wanted=4
+(5244)F:\adb\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	34(5244)F:\adb\transport.cpp:46	  (5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	4(5244)F:\adb\transport.cpp:54	
+(5244)F:\adb\transport.cpp:997	readx: fd=100 wanted=4
+(5244)F:\adb\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	33(5244)F:\adb\transport.cpp:45	32(5244)F:\adb\transport.cpp:46	  (5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	3(5244)F:\adb\transport.cpp:52	2(5244)F:\adb\transport.cpp:54	
+(5244)F:\adb\sysdeps_win32.cpp:462	adb_close: 100(lo-client:5037)
+(5244)F:\adb\adb_client.cpp:178	_adb_connect: host:devices
+(5244)F:\adb\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 101
+(5244)F:\adb\transport.cpp:1028	writex: fd=101 len=4: (5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	63(5244)F:\adb\transport.cpp:46	  (5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	c(5244)F:\adb\transport.cpp:54	
+(5244)F:\adb\transport.cpp:1028	writex: fd=101 len=12: (5244)F:\adb\transport.cpp:45	68(5244)F:\adb\transport.cpp:45	6f(5244)F:\adb\transport.cpp:45	73(5244)F:\adb\transport.cpp:45	74(5244)F:\adb\transport.cpp:45	3a(5244)F:\adb\transport.cpp:45	64(5244)F:\adb\transport.cpp:45	65(5244)F:\adb\transport.cpp:45	76(5244)F:\adb\transport.cpp:45	69(5244)F:\adb\transport.cpp:45	63(5244)F:\adb\transport.cpp:45	65(5244)F:\adb\transport.cpp:45	73(5244)F:\adb\transport.cpp:46	  (5244)F:\adb\transport.cpp:52	h(5244)F:\adb\transport.cpp:52	o(5244)F:\adb\transport.cpp:52	s(5244)F:\adb\transport.cpp:52	t(5244)F:\adb\transport.cpp:52	:(5244)F:\adb\transport.cpp:52	d(5244)F:\adb\transport.cpp:52	e(5244)F:\adb\transport.cpp:52	v(5244)F:\adb\transport.cpp:52	i(5244)F:\adb\transport.cpp:52	c(5244)F:\adb\transport.cpp:52	e(5244)F:\adb\transport.cpp:52	s(5244)F:\adb\transport.cpp:54	
+(5244)F:\adb\transport.cpp:997	readx: fd=101 wanted=4
+(5244)F:\adb\transport.cpp:1016	readx: fd=101 wanted=4 got=4
+(5244)F:\adb\transport.cpp:45	4f(5244)F:\adb\transport.cpp:45	4b(5244)F:\adb\transport.cpp:45	41(5244)F:\adb\transport.cpp:45	59(5244)F:\adb\transport.cpp:46	  (5244)F:\adb\transport.cpp:52	O(5244)F:\adb\transport.cpp:52	K(5244)F:\adb\transport.cpp:52	A(5244)F:\adb\transport.cpp:52	Y(5244)F:\adb\transport.cpp:54	
+(5244)F:\adb\transport.cpp:997	readx: fd=101 wanted=4
+(5244)F:\adb\transport.cpp:1016	readx: fd=101 wanted=4 got=4
+(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:45	30(5244)F:\adb\transport.cpp:46	  (5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:52	0(5244)F:\adb\transport.cpp:54	
+(5244)F:\adb\transport.cpp:997	readx: fd=101 wanted=0
+(5244)F:\adb\transport.cpp:1016	readx: fd=101 wanted=0 got=0
+(5244)F:\adb\transport.cpp:46	  (5244)F:\adb\transport.cpp:54	
+(5244)F:\adb\sysdeps_win32.cpp:462	adb_close: 101(lo-client:5037)
+(5244)F:\adb\adb.cpp:1310	log end(F:\adb\Debug\adb.exe)...
+(9136)F:\adb\adb.cpp:1305	log begin(F:\adb\Debug\adb.exe)...
+(9136)F:\adb\adb_client.cpp:301	adb_query: host:devices
+(9136)F:\adb\adb_client.cpp:178	_adb_connect: host:version
+(9136)F:\adb\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 100
+(9136)F:\adb\transport.cpp:1028	writex: fd=100 len=4: (9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	63(9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	c(9136)F:\adb\transport.cpp:54	
+(9136)F:\adb\transport.cpp:1028	writex: fd=100 len=12: (9136)F:\adb\transport.cpp:45	68(9136)F:\adb\transport.cpp:45	6f(9136)F:\adb\transport.cpp:45	73(9136)F:\adb\transport.cpp:45	74(9136)F:\adb\transport.cpp:45	3a(9136)F:\adb\transport.cpp:45	76(9136)F:\adb\transport.cpp:45	65(9136)F:\adb\transport.cpp:45	72(9136)F:\adb\transport.cpp:45	73(9136)F:\adb\transport.cpp:45	69(9136)F:\adb\transport.cpp:45	6f(9136)F:\adb\transport.cpp:45	6e(9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:52	h(9136)F:\adb\transport.cpp:52	o(9136)F:\adb\transport.cpp:52	s(9136)F:\adb\transport.cpp:52	t(9136)F:\adb\transport.cpp:52	:(9136)F:\adb\transport.cpp:52	v(9136)F:\adb\transport.cpp:52	e(9136)F:\adb\transport.cpp:52	r(9136)F:\adb\transport.cpp:52	s(9136)F:\adb\transport.cpp:52	i(9136)F:\adb\transport.cpp:52	o(9136)F:\adb\transport.cpp:52	n(9136)F:\adb\transport.cpp:54	
+(9136)F:\adb\transport.cpp:997	readx: fd=100 wanted=4
+(9136)F:\adb\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(9136)F:\adb\transport.cpp:45	4f(9136)F:\adb\transport.cpp:45	4b(9136)F:\adb\transport.cpp:45	41(9136)F:\adb\transport.cpp:45	59(9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:52	O(9136)F:\adb\transport.cpp:52	K(9136)F:\adb\transport.cpp:52	A(9136)F:\adb\transport.cpp:52	Y(9136)F:\adb\transport.cpp:54	
+(9136)F:\adb\transport.cpp:997	readx: fd=100 wanted=4
+(9136)F:\adb\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	34(9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	4(9136)F:\adb\transport.cpp:54	
+(9136)F:\adb\transport.cpp:997	readx: fd=100 wanted=4
+(9136)F:\adb\transport.cpp:1016	readx: fd=100 wanted=4 got=4
+(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	33(9136)F:\adb\transport.cpp:45	32(9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	3(9136)F:\adb\transport.cpp:52	2(9136)F:\adb\transport.cpp:54	
+(9136)F:\adb\sysdeps_win32.cpp:462	adb_close: 100(lo-client:5037)
+(9136)F:\adb\adb_client.cpp:178	_adb_connect: host:devices
+(9136)F:\adb\sysdeps_win32.cpp:613	socket_loopback_client: port 5037 type tcp => fd 101
+(9136)F:\adb\transport.cpp:1028	writex: fd=101 len=4: (9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	63(9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	c(9136)F:\adb\transport.cpp:54	
+(9136)F:\adb\transport.cpp:1028	writex: fd=101 len=12: (9136)F:\adb\transport.cpp:45	68(9136)F:\adb\transport.cpp:45	6f(9136)F:\adb\transport.cpp:45	73(9136)F:\adb\transport.cpp:45	74(9136)F:\adb\transport.cpp:45	3a(9136)F:\adb\transport.cpp:45	64(9136)F:\adb\transport.cpp:45	65(9136)F:\adb\transport.cpp:45	76(9136)F:\adb\transport.cpp:45	69(9136)F:\adb\transport.cpp:45	63(9136)F:\adb\transport.cpp:45	65(9136)F:\adb\transport.cpp:45	73(9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:52	h(9136)F:\adb\transport.cpp:52	o(9136)F:\adb\transport.cpp:52	s(9136)F:\adb\transport.cpp:52	t(9136)F:\adb\transport.cpp:52	:(9136)F:\adb\transport.cpp:52	d(9136)F:\adb\transport.cpp:52	e(9136)F:\adb\transport.cpp:52	v(9136)F:\adb\transport.cpp:52	i(9136)F:\adb\transport.cpp:52	c(9136)F:\adb\transport.cpp:52	e(9136)F:\adb\transport.cpp:52	s(9136)F:\adb\transport.cpp:54	
+(9136)F:\adb\transport.cpp:997	readx: fd=101 wanted=4
+(9136)F:\adb\transport.cpp:1016	readx: fd=101 wanted=4 got=4
+(9136)F:\adb\transport.cpp:45	4f(9136)F:\adb\transport.cpp:45	4b(9136)F:\adb\transport.cpp:45	41(9136)F:\adb\transport.cpp:45	59(9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:52	O(9136)F:\adb\transport.cpp:52	K(9136)F:\adb\transport.cpp:52	A(9136)F:\adb\transport.cpp:52	Y(9136)F:\adb\transport.cpp:54	
+(9136)F:\adb\transport.cpp:997	readx: fd=101 wanted=4
+(9136)F:\adb\transport.cpp:1016	readx: fd=101 wanted=4 got=4
+(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:45	30(9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:52	0(9136)F:\adb\transport.cpp:54	
+(9136)F:\adb\transport.cpp:997	readx: fd=101 wanted=0
+(9136)F:\adb\transport.cpp:1016	readx: fd=101 wanted=0 got=0
+(9136)F:\adb\transport.cpp:46	  (9136)F:\adb\transport.cpp:54	
+(9136)F:\adb\sysdeps_win32.cpp:462	adb_close: 101(lo-client:5037)
+(9136)F:\adb\adb.cpp:1310	log end(F:\adb\Debug\adb.exe)...

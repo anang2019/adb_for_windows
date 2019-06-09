@@ -1,0 +1,6 @@
+---- __adb_server_port Matches (5 in 1 files) ----
+Adb_client.cpp:static int __adb_server_port = DEFAULT_ADB_PORT;
+Adb_client.cpp:    __adb_server_port = server_port;
+Adb_client.cpp:    fd = socket_loopback_client(__adb_server_port, SOCK_STREAM);
+Adb_client.cpp:                __adb_server_port);
+Adb_client.cpp:        if(launch_server(__adb_server_port)) {
