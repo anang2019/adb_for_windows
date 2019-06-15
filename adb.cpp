@@ -492,7 +492,8 @@ int local_name_to_fd(const char *name)
     if(!strncmp("tcp:", name, 4)){
         int  ret;
         port = atoi(name + 4);
-        ret = socket_loopback_server(port, SOCK_STREAM);
+        //ret = socket_loopback_server(port, SOCK_STREAM);
+		ret = socket_inaddr_any_server(port, SOCK_STREAM);
         return ret;
     }
 #ifndef HAVE_WIN32_IPC  /* no Unix-domain sockets on Win32 */

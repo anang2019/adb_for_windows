@@ -8,6 +8,6 @@
     <LocalDebuggerCommandArguments>
     </LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerCommand>..\zOut\adb.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommand>..\adb.exe devices</LocalDebuggerCommand>
   </PropertyGroup>
 </Project>
